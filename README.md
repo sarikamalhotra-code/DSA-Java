@@ -6,5 +6,8 @@ Following Striver's A2Z DSA Sheet.
 
 ### Arrays
 - [x] Largest Element
-- [ ] Second Largest Element
+- [x] Second Largest Element
 - [ ] Check if Array is Sorted
+
+### Patterns
+- [x] Pattern 1 - Square Pattern
