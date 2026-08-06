@@ -8,6 +8,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] Largest Element
 - [x] Second Largest Element
 - [x] Two Sum
+- [x] Check if the Array is Sorted
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
