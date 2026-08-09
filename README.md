@@ -15,3 +15,4 @@ Following Striver's A2Z DSA Sheet.
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
+- [x] Pattern 2 – Number Pattern
