@@ -16,3 +16,7 @@ Following Striver's A2Z DSA Sheet.
 ### Patterns
 - [x] Pattern 1 - Square Pattern
 - [x] Pattern 2 – Number Pattern
+- [x] Pattern 3 - Number Pattern
+- [x] Pattern 4 - Inverted Star Pattern
+- [x] Pattern 5 - Inverted Number Pattern
+- [x] Pattern 6 - Pyramid Star Pattern
