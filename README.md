@@ -12,6 +12,8 @@ Following Striver's A2Z DSA Sheet.
 - [x] Richest Customer Wealth
 - [x] Running Sum of 1D Array
 - [x] FindPivotIndex
+- [x] Shuffle the Array - LeetCode 1470
+- [x] Build Array from Permutation - LeetCode 1920
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
