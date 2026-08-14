@@ -15,6 +15,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] Shuffle the Array - LeetCode 1470
 - [x] Build Array from Permutation - LeetCode 1920
 - [x] How Many Numbers Are Smaller Than the Current Number - LeetCode 1365
+- [x] Kids With the Greatest Number of Candies - LeetCode 1431
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
