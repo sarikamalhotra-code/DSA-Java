@@ -41,7 +41,6 @@ Store nums[n + i] at result[2 * i + 1].
 Return the resulting array.
 
 Time Complexity
-
 O(n)
 Space Complexity
 O(n)
