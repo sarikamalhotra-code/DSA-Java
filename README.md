@@ -29,7 +29,7 @@ Following Striver's A2Z DSA Sheet.
 
 ### Strings
 - [x] To Lower Case - LeetCode 709
-- [ ] Reverse String - LeetCode 344
+- [x] Reverse String - LeetCode 344
 - [ ] Valid Palindrome - LeetCode 125
 - [ ] Length of Last Word - LeetCode 58
 - [ ] First Unique Character in a String - LeetCode 387
