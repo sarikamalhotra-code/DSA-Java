@@ -17,6 +17,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] How Many Numbers Are Smaller Than the Current Number - LeetCode 1365
 - [x] Kids With the Greatest Number of Candies - LeetCode 1431
 - [x] Concatenation Of Array
+- [x] Best Time to Buy and Sell Product
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
