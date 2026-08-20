@@ -31,7 +31,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] To Lower Case - LeetCode 709
 - [x] Reverse String - LeetCode 344
 - [x] Jewels and Stones - LeetCode 771
-- [ ] Valid Palindrome - LeetCode 125
+- [x] Valid Palindrome - LeetCode 125
 - [ ] Length of Last Word - LeetCode 58
 - [ ] First Unique Character in a String - LeetCode 387
 - [ ] Longest Common Prefix - LeetCode 14
