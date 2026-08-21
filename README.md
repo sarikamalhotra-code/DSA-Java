@@ -18,6 +18,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] Kids With the Greatest Number of Candies - LeetCode 1431
 - [x] Concatenation Of Array
 - [x] Best Time to Buy and Sell Product
+- [x] Contains Duplicate
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
@@ -32,6 +33,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] Reverse String - LeetCode 344
 - [x] Jewels and Stones - LeetCode 771
 - [x] Valid Palindrome - LeetCode 125
+- [x] Valid Anagram - LeetCode 242
 - [ ] Length of Last Word - LeetCode 58
 - [ ] First Unique Character in a String - LeetCode 387
 - [ ] Longest Common Prefix - LeetCode 14
