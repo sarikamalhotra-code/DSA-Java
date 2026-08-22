@@ -19,6 +19,7 @@ Following Striver's A2Z DSA Sheet.
 - [x] Concatenation Of Array
 - [x] Best Time to Buy and Sell Product
 - [x] Contains Duplicate
+- [x] Product of Array Except Self
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
