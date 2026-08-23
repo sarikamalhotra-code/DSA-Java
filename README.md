@@ -21,6 +21,9 @@ Following Striver's A2Z DSA Sheet.
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
 
+### Linear Search
+- [x] Find Numbers with Even Number of Digits - LeetCode 1295
+
 ### Patterns
 - [x] Pattern 1 - Square Pattern
 - [x] Pattern 2 – Number Pattern
