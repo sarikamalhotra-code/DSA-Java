@@ -1,6 +1,7 @@
 # DSA in Java 🚀
 
 Following Striver's A2Z DSA Sheet.
+Following LeetCode DSA Sheet.
 
 ## Progress
 
