@@ -25,6 +25,7 @@ Following LeetCode DSA Sheet.
 ### Linear Search
 - [x] Find Numbers with Even Number of Digits - LeetCode 1295
 - [x] Remove Element - LeetCode 27
+- [x] Find the Index of the First Occurence in String - LeetCode 28
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
