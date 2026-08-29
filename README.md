@@ -27,6 +27,7 @@ Following LeetCode DSA Sheet.
 - [x] Remove Element - LeetCode 27
 - [x] Find the Index of the First Occurence in String - LeetCode 28
 - [x] Search Insert Position - LeetCode 35
+- [x] Find Minimum in Rotated Sorted Array - LeetCode 153
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
