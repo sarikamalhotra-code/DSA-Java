@@ -21,6 +21,7 @@ Following LeetCode DSA Sheet.
 - [x] Best Time to Buy and Sell Product
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
+- [x] Check if the Array is Sorted
 
 ### Linear Search
 - [x] Find Numbers with Even Number of Digits - LeetCode 1295
