@@ -22,6 +22,7 @@ Following LeetCode DSA Sheet.
 - [x] Contains Duplicate
 - [x] Product of Array Except Self
 - [x] Check if the Array is Sorted
+- [x] Remove Duplicates from Sorted Array
 
 ### Linear Search
 - [x] Find Numbers with Even Number of Digits - LeetCode 1295
