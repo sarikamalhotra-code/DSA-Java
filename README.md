@@ -24,6 +24,8 @@ Following LeetCode DSA Sheet.
 - [x] Check if the Array is Sorted
 - [x] Remove Duplicates from Sorted Array
 - [x] Left Rotate Array by One
+- [x] Left Rotate Array by k places
+- [x] Move all zeroes to the end of the Array
 
 ### Linear Search
 - [x] Find Numbers with Even Number of Digits - LeetCode 1295
