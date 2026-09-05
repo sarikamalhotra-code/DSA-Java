@@ -33,6 +33,7 @@ Following LeetCode DSA Sheet.
 - [x] Find the Index of the First Occurence in String - LeetCode 28
 - [x] Search Insert Position - LeetCode 35
 - [x] Find Minimum in Rotated Sorted Array - LeetCode 153
+- [x] Linear Search Striver
 
 ### Patterns
 - [x] Pattern 1 - Square Pattern
