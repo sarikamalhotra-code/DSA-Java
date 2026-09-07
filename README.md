@@ -28,6 +28,7 @@ Following LeetCode DSA Sheet.
 - [x] Move all zeroes to the end of the Array
 - [x] Union of two sorted Arrays
 - [x] Maximum Consecutive Ones
+- [x] Single Number
 
 ### Linear Search
 - [x] Find Numbers with Even Number of Digits - LeetCode 1295
