@@ -55,3 +55,6 @@ Following LeetCode DSA Sheet.
 - [ ] Length of Last Word - LeetCode 58
 - [ ] First Unique Character in a String - LeetCode 387
 - [ ] Longest Common Prefix - LeetCode 14
+
+### Binary Search
+- [x] Solved X in Sorted Arrsy
