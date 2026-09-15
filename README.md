@@ -58,3 +58,5 @@ Following LeetCode DSA Sheet.
 
 ### Binary Search
 - [x] Solved X in Sorted Arrsy
+- [x] Lower Bound
+- [x] Upper Bound
