@@ -60,3 +60,5 @@ Following LeetCode DSA Sheet.
 - [x] Solved X in Sorted Arrsy
 - [x] Lower Bound
 - [x] Upper Bound
+- [x] Search Insert Position
+- [x] Floor and Ceil in Sorted Array
