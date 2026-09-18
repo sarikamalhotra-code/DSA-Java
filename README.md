@@ -63,3 +63,4 @@ Following LeetCode DSA Sheet.
 - [x] Search Insert Position
 - [x] Floor and Ceil in Sorted Array
 - [x] First and Last Occurence
+- [x] Count Occurences in a Sorted Array
