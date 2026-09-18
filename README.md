@@ -62,3 +62,4 @@ Following LeetCode DSA Sheet.
 - [x] Upper Bound
 - [x] Search Insert Position
 - [x] Floor and Ceil in Sorted Array
+- [x] First and Last Occurence
