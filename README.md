@@ -64,3 +64,5 @@ Following LeetCode DSA Sheet.
 - [x] Floor and Ceil in Sorted Array
 - [x] First and Last Occurence
 - [x] Count Occurences in a Sorted Array
+- [x] Search in Rotated Sorted Array 1
+- [x] Serach in Rotated Sorted Array 2
