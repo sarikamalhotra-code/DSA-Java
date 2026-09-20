@@ -66,3 +66,7 @@ Following LeetCode DSA Sheet.
 - [x] Count Occurences in a Sorted Array
 - [x] Search in Rotated Sorted Array 1
 - [x] Serach in Rotated Sorted Array 2
+- [x] Find Minimum in rotated sorted Array
+- [x] Find Out how many times the array is rotated
+- [x] Single element in a sorted array
+- [x] Find peak element
