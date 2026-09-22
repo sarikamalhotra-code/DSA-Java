@@ -70,3 +70,4 @@ Following LeetCode DSA Sheet.
 - [x] Find Out how many times the array is rotated
 - [x] Single element in a sorted array
 - [x] Find peak element
+- [x] Aggresive Cows
