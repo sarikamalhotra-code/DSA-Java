@@ -74,4 +74,4 @@ Following LeetCode DSA Sheet.
 - [x] Find square root of a number
 
 ### Recusrion
--[x] Pow(x,n)
+- [x] Pow(x,n)
