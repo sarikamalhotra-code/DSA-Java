@@ -71,3 +71,4 @@ Following LeetCode DSA Sheet.
 - [x] Single element in a sorted array
 - [x] Find peak element
 - [x] Aggresive Cows
+- [x] Find square root of a number
