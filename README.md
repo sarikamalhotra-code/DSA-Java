@@ -72,3 +72,6 @@ Following LeetCode DSA Sheet.
 - [x] Find peak element
 - [x] Aggresive Cows
 - [x] Find square root of a number
+
+### Recusrion
+-[x] Pow(x,n)
