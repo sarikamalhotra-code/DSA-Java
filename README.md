@@ -75,3 +75,4 @@ Following LeetCode DSA Sheet.
 
 ### Recusrion
 - [x] Pow(x,n)
+- [x] Count Good Numbers
