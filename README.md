@@ -77,3 +77,4 @@ Following LeetCode DSA Sheet.
 - [x] Pow(x,n)
 - [x] Count Good Numbers
 - [x] Reverse a Stack
+- [x] Check if there number exists a subsequence with sum K
