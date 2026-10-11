@@ -78,3 +78,5 @@ Following LeetCode DSA Sheet.
 - [x] Count Good Numbers
 - [x] Reverse a Stack
 - [x] Check if there number exists a subsequence with sum K
+- [x] Check all subsequences with k
+- [x] Generate Binary Strings without Consecutive 1s
