@@ -80,3 +80,12 @@ Following LeetCode DSA Sheet.
 - [x] Check if there number exists a subsequence with sum K
 - [x] Check all subsequences with k
 - [x] Generate Binary Strings without Consecutive 1s
+
+### Linked List
+- [x] Traversal in linked list
+- [x] Deletion of the Head LL
+- [x] Deletion of the tail of linked list
+- [x] Deletion of the kth element of linked list
+- [x] Delete the element with value x
+- [x] Insertion at the head of linked list
+- [x] Insertion at the tail of linked list
